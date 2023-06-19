@@ -1,0 +1,16 @@
+.form-control,
+.flag-dropdown,
+.country-list {
+  background: transparent !important;
+  border: none !important;
+}
+
+.flag-dropdown:hover {
+  background-color: gray !important;
+  font-weight: 600 !important;
+}
+
+.react-tel-input .country-list .country:hover {
+  background-color: gray !important;
+  font-weight: 800;
+}

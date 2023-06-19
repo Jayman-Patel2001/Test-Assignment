@@ -1,0 +1,46 @@
+.css-10mg1vw-MuiStepper-root {
+  width: 60%;
+}
+
+.css-1hv8oq8-MuiStepLabel-label {
+  color: gray !important;
+  font-weight: 600;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  color: white !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  border: 1px solid gray !important;
+  border-radius: 5px !important;
+}
+
+.css-17vbkzs-MuiFormControl-root-MuiTextField-root:hover {
+  border: 1px solid whitesmoke !important;
+}
+
+.css-141o706 > span {
+  color: gray !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  color: gray !important;
+  font-weight: 600;
+}
+
+.css-47suzj-MuiTypography-root {
+  margin-top: 5rem !important;
+}
+
+.css-149xwtl-MuiTypography-root {
+  margin-top: 3rem !important;
+}
+
+.css-1kgxqm0-MuiTypography-root {
+  margin: 1rem 0 0 0 !important;
+}
+
+.css-ph2xsj-MuiTypography-root {
+  margin: 1rem 0 0 0 !important;
+}
